@@ -18,4 +18,4 @@ API使用[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicAp
 
 ## License
 
-©MIT
+© MIT
